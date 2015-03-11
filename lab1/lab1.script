@@ -1,0 +1,22 @@
+Script started on 2015年03月11日 (週三) 20時29分37秒
+]0;H34036186@2015cpp: ~H34036186@2015cpp:~$ whoami; pwd
+H34036186
+/home/H34036186
+]0;H34036186@2015cpp: ~H34036186@2015cpp:~$ git config -l
+user.name=bernice17824
+user.email=H34036186@mail.ncku.edu.tw
+email.name=H34036186@mail.ncku.edu.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.lab1.url=https://github.com/bernice17824/lab1.git
+remote.lab1.fetch=+refs/heads/*:refs/remotes/lab1/*
+]0;H34036186@2015cpp: ~H34036186@2015cpp:~$ fit clonegit config -l[2Pwhoami; pwdscript lab1.cpp[1@git add[C[C[C[C[C[C[C[C[Cscriptmv lab1.script lab1[4Pcat lab1.script[3@scrip[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pgit init[K[K[K[Kclone Http[K[K[K[Khttp://github.com/bernice17824/lab1. git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;H34036186@2015cpp: ~H34036186@2015cpp:~$ git clone http://github.com/bernice17824/lab1.ggit[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs://github.com/bernice17824/lab1.git[A]0;H34036186@2015cpp: ~H34036186@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;H34036186@2015cpp: ~H34036186@2015cpp:~$ exit
+
+Script done on 2015年03月11日 (週三) 20時32分42秒
